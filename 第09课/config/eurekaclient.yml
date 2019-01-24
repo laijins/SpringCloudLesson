@@ -17,7 +17,3 @@ spring:
       percentage: 1.0
   zipkin:
     base-url: http://localhost:9411
-security: #加入认证的用户名和密
-  user:
-    name: ljs
-    password: 123456
