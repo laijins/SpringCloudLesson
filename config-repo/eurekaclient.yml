@@ -4,7 +4,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:
   port: 8763
-userName: ljs123456789
+userName: ljs1234567890
 spring:
   application:
     name: eurekaclient
